@@ -12,8 +12,11 @@ export default function Carousel({name}:  CarouselProp) {
     max-sm:gap-y-2 md:gap-x-10
     md:flex-row  max-sm:
     max-sm:px-5 md:px-10 rounded-lg bg-green-200">
-   {/* add the card here  */}
     <span className="font-bold text-black">{name}</span>
+
+   {/* add the card here, map over it  */}
+
+    
 
   </div>
 }
