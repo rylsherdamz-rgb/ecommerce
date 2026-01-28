@@ -2,6 +2,6 @@ import Carousel from "@/components/Carousel"
 
 export default function Home() {
   return <div className="w-full h-screen bg-gray-200 px-[5%] py-10">
-    <Carousel />
+    <Carousel name="test"/>
   </div>
 }
