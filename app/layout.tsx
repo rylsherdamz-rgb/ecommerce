@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ecomnerce",
-  description: "ReviewerPy",
+  title: "Shopee Clone",
+  description: "A Clone of Shopee ",
 };
 
 export default function RootLayout({
