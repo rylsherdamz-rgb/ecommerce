@@ -1,5 +1,5 @@
 export default function Navigation() {
-  return <div className="w-full mx-[5%] rounded-xl bg-gray-900">
+  return <div className="w-full h-[10vh]  bg-gray-200">
 
   </div>
 }
